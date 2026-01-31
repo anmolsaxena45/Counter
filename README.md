@@ -1,5 +1,4 @@
 # Counter
 React Counter App
-this is a 
 
 A simple and professional React component that demonstrates state management using the useState hook. The app displays a counter that increments each time the user clicks a button, updating the UI instantly.
